@@ -1,2 +1,0 @@
-# JJP
-study-guide
